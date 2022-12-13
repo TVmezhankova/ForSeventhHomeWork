@@ -1,0 +1,15 @@
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\obj\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\obj\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\obj\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\obj\Debug\net6.0\Task47.AssemblyInfo.cs
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\obj\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\bin\Debug\net6.0\Task47.exe
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\bin\Debug\net6.0\Task47.deps.json
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\bin\Debug\net6.0\Task47.runtimeconfig.json
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\bin\Debug\net6.0\Task47.dll
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\bin\Debug\net6.0\Task47.pdb
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\obj\Debug\net6.0\Task47.dll
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\obj\Debug\net6.0\refint\Task47.dll
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\obj\Debug\net6.0\Task47.pdb
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\obj\Debug\net6.0\Task47.genruntimeconfig.cache
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork7\Task47\obj\Debug\net6.0\ref\Task47.dll
